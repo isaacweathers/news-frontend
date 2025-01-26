@@ -17,7 +17,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	//"postCreateCommand": "cd news-api-frontend && npm install && npm install --save-dev @testing-library/react @testing-library/dom @testing-library/jest-dom @testing-library/user-event  @types/react @types/react-dom @types/jest @types/node --legacy-peer-deps && npm instal web-vitals --save-dev",
+	//"postCreateCommand": "npm install && npm install --save-dev @testing-library/react @testing-library/dom @testing-library/jest-dom @testing-library/user-event  @types/react @types/react-dom @types/jest @types/node --legacy-peer-deps && npm instal web-vitals --save-dev",
 
 	// Configure tool-specific properties.
 	// "customizations": {},
